@@ -1,5 +1,6 @@
 #My favorite TV Show 
-###Squid game
+
+#Squid game
 
 Squid game is a mega-hit Korean series on Netflix. The series follows a real life game of life and death where winners are decided based on 6 different games.
 
