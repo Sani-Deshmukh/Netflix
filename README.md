@@ -1,2 +1,2 @@
 # Netflix
-[YOU](you.MD)
+[YOU](you.md)
