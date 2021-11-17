@@ -1,1 +1,1 @@
-[(riverdale.md)]
+[Riverdale](riverdale.md)
